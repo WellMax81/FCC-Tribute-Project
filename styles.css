@@ -1,10 +1,36 @@
 
-
-#main {
-    background-color: beige;
+#main   {
     font-family: Arial, Helvetica, sans-serif;
-    display: absolute;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
+    color: black;
+    
 }
+#title {
+    background-color: darkgreen;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 10px;
+}
+#subheading {
+    background-color: darkgreen;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    }
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center {
+    max-width: 100%;
+    height: auto;
+}
+#img-caption {
+    text-align: center;
+    padding: 5px;
+}
+
